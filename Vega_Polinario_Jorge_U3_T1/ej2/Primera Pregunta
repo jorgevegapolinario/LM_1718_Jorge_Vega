@@ -1,0 +1,3 @@
+En la versión inglesa, ¿por qué los últimos 5 párrafos se muestran de forma diferente que los 2 primeros?
+
+Porque en los dos primeros vemos que tienen clase "verse", lo que hace que en la hoja de estilo se les de un aspecto diferente, mientras que los demás (5 restantes) no tienen clase, por lo que no tienen estilo defnido.
